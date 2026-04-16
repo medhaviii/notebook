@@ -1,0 +1,23 @@
+Short Channel Effects in VLSI
+
+As transistor sizes shrink in modern VLSI technology, several physical effects appear that affect the performance of the transistor. These are known as short channel effects.
+
+Channel Length Modulation:
+Channel length modulation occurs when the effective channel length decreases due to an increase in drain voltage. This causes an increase in drain current even in saturation.
+
+Hot Electron Effect:
+The hot electron effect occurs when high electric fields accelerate electrons to very high energies. These energetic electrons can damage the gate oxide layer and degrade transistor performance.
+
+Drain Induced Barrier Lowering (DIBL):
+DIBL occurs when a high drain voltage reduces the potential barrier between the source and channel, allowing current to flow even when the transistor is supposed to be off.
+
+Velocity Saturation:
+At high electric fields, the velocity of charge carriers stops increasing linearly and reaches a saturation value.
+
+Punch Through Effect:
+Punch through occurs when the depletion regions of the source and drain meet, causing uncontrolled current flow through the device.
+
+Subthreshold Conduction:
+Even when the gate voltage is below the threshold voltage, a small leakage current may still flow through the transistor.
+
+Short channel effects become more significant as transistor dimensions continue to shrink in modern semiconductor technologies.

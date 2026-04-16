@@ -1,0 +1,75 @@
+Concept of Cybersecurity
+
+Cybersecurity is the practice of protecting computer systems, networks, and data from unauthorized access, theft, or damage.
+
+It ensures the confidentiality, integrity, and availability of information.
+
+Confidentiality:
+Ensures that sensitive data is accessible only to authorized users through encryption and access control.
+
+Integrity:
+Ensures that data remains accurate and unaltered using mechanisms such as checksums and digital signatures.
+
+Availability:
+Ensures systems and data remain accessible through redundancy and disaster recovery planning.
+
+Authentication:
+Verifies the identity of users or systems using passwords, biometrics, or multi-factor authentication.
+
+Cyber Attacks
+
+A cyberattack exploits computer systems or networks using malicious code to steal or manipulate data.
+
+Cyberattacks are classified into two types:
+
+Web-Based Attacks
+
+Injection Attacks:
+Attackers insert malicious data into web applications to extract information.
+
+Session Hijacking:
+Attackers steal session cookies to gain access to user accounts.
+
+Phishing:
+Attackers impersonate trusted entities to steal sensitive information.
+
+Denial of Service (DoS):
+Attackers overload servers with traffic to make them unavailable.
+
+System-Based Attacks
+
+Virus:
+Self-replicating malicious programs that infect files and systems.
+
+Worm:
+Malware that spreads automatically through networks.
+
+Trojan Horse:
+Malicious programs disguised as legitimate applications.
+
+Cyber Threat
+
+A cyber threat is any potential malicious activity aimed at damaging systems or networks.
+
+Threat vs Attack
+
+A threat is a possible condition that could cause harm.
+An attack is a deliberate action intended to cause harm.
+
+Threats may be accidental or intentional, while attacks are always malicious.
+
+Issues and Challenges of Cybersecurity
+
+Cyber attacks from hackers, cybercriminals, and nation states.
+
+Data breaches exposing sensitive information.
+
+Security vulnerabilities in software and hardware.
+
+Insider threats from employees or partners.
+
+Lack of cybersecurity awareness among users.
+
+Limited resources and expertise in organizations.
+
+Ransomware attacks encrypting data and demanding payment.

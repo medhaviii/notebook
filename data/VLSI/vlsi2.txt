@@ -1,0 +1,31 @@
+Transistor Parameters in VLSI
+
+In VLSI circuits, transistors are the basic building blocks used to implement logic gates and digital circuits.
+
+Several parameters define the behavior and performance of a transistor.
+
+Threshold Voltage (Vth):
+The threshold voltage is the minimum gate-to-source voltage required to create a conducting path between the source and drain terminals.
+
+Drain Current (Id):
+Drain current represents the current flowing from the drain to the source when a voltage is applied across the transistor.
+
+Transconductance (gm):
+Transconductance measures the ability of the transistor to control the drain current using the gate voltage.
+
+Channel Length (L):
+Channel length is the physical distance between the source and drain terminals. It affects switching speed and current flow.
+
+Channel Width (W):
+Channel width determines the amount of current that can flow through the transistor.
+
+Gate Capacitance:
+Gate capacitance is the capacitance between the gate terminal and the channel. It influences switching speed and dynamic power consumption.
+
+Subthreshold Current:
+This is the current that flows when the transistor is operating below the threshold voltage.
+
+Mobility:
+Carrier mobility determines how quickly electrons or holes can move through the semiconductor material.
+
+These transistor parameters play an important role in determining the speed, power consumption, and reliability of VLSI circuits.

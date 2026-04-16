@@ -42,8 +42,7 @@ Thumbs.db
 .env.local
 
 # Models and data
-models/
-data/
+
 
 # Jupyter
 .ipynb_checkpoints/

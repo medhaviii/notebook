@@ -1,0 +1,73 @@
+CMOS Technology and Important Equations
+
+CMOS stands for Complementary Metal Oxide Semiconductor. It is one of the most widely used technologies for designing integrated circuits in modern electronics. CMOS uses a combination of NMOS (n-type MOSFET) and PMOS (p-type MOSFET) transistors to implement logic functions.
+
+In CMOS circuits, one transistor type conducts when the other is off. This complementary behavior results in very low static power consumption, making CMOS ideal for large scale digital systems.
+
+Basic Structure of CMOS
+
+A CMOS circuit generally consists of two networks:
+1. Pull-up network made of PMOS transistors
+2. Pull-down network made of NMOS transistors
+
+The pull-up network connects the output to the power supply (Vdd), while the pull-down network connects the output to ground (GND). Only one network conducts at a time depending on the input signal.
+
+CMOS Inverter
+
+The CMOS inverter is the simplest CMOS logic circuit. It consists of one PMOS transistor connected to Vdd and one NMOS transistor connected to ground.
+
+When the input voltage is low, the PMOS transistor turns on and the NMOS transistor turns off. This makes the output voltage high.
+
+When the input voltage is high, the NMOS transistor turns on and the PMOS transistor turns off. This makes the output voltage low.
+
+MOSFET Current Equation
+
+The drain current of a MOS transistor operating in the saturation region can be expressed as:
+
+Id = (1/2) × μ × Cox × (W/L) × (Vgs − Vth)^2
+
+Where:
+Id = Drain current
+μ = Carrier mobility
+Cox = Gate oxide capacitance per unit area
+W = Channel width
+L = Channel length
+Vgs = Gate-to-source voltage
+Vth = Threshold voltage
+
+Dynamic Power Consumption
+
+The dynamic power consumed by a CMOS circuit is given by the equation:
+
+P = α × C × V² × f
+
+Where:
+P = Power consumption
+α = Switching activity factor
+C = Load capacitance
+V = Supply voltage
+f = Switching frequency
+
+This equation shows that power consumption increases with supply voltage and operating frequency.
+
+Static Power Consumption
+
+In an ideal CMOS circuit, static power consumption is almost zero because only one transistor conducts at a time. However, in modern small-scale devices leakage currents cause small static power dissipation.
+
+Propagation Delay
+
+The propagation delay of a CMOS gate is approximately given by:
+
+tp ≈ (C × V) / I
+
+Where:
+tp = Propagation delay
+C = Load capacitance
+V = Supply voltage
+I = Current driving capability of the transistor
+
+Applications of CMOS
+
+CMOS technology is widely used in the design of microprocessors, memory devices, digital signal processors, and system-on-chip circuits.
+
+Because of its low power consumption, high noise immunity, and scalability, CMOS has become the dominant technology in modern VLSI design.

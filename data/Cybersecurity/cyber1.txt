@@ -1,0 +1,46 @@
+Defining Cyberspace
+
+The term Cyberspace was first coined by William Gibson in the year 1984.
+Cyberspace is the environment in which communication over computer networks occurs.
+Cyberspace is the virtual and dynamic space created by computer networks. It mainly refers to the virtual network designed to help online communications occur electronically.
+
+The primary purpose of creating cyberspace is to share information and communicate across the globe.
+Cyberspace is the space in which users share information, interact with each other, engage in discussions, use social media platforms, and perform many other online activities.
+
+The whole cyberspace is composed of large computer networks which have many sub-networks. These follow the TCP/IP protocol.
+
+Architecture of Cyberspace
+
+There isn't a single specific architecture for cyberspace because it includes many technologies, protocols, and platforms.
+
+Network Infrastructure:
+At the core of cyberspace is the global network infrastructure known as the Internet. It consists of interconnected components such as routers, switches, data centers, and undersea cables. The Internet architecture is based on Internet Protocol (IP), which allows data packets to be routed across networks.
+
+Protocols:
+Communication protocols define how data is transmitted and received in cyberspace. The Transmission Control Protocol (TCP) and Internet Protocol (IP) are fundamental protocols. Other protocols include HTTP, SMTP, and FTP.
+
+Domain Name System (DNS):
+DNS translates human-readable domain names into IP addresses so users can access websites without remembering numerical addresses.
+
+Data Centers:
+Data centers store servers and infrastructure used to host websites, applications, and cloud services.
+
+Cybersecurity:
+Security mechanisms such as firewalls, encryption, intrusion detection systems, and antivirus software protect cyberspace.
+
+User Devices:
+Users access cyberspace through computers, smartphones, tablets, and IoT devices.
+
+Cloud Computing:
+Cloud platforms provide scalable computing resources and storage.
+
+Social Media and Online Communities:
+These platforms allow users to communicate, share information, and collaborate online.
+
+Internet of Things (IoT):
+IoT connects physical devices to cyberspace to exchange data.
+
+Regulations and Governance:
+Various regulations ensure security, privacy, and fair use. Organizations like ICANN manage domain names and policies.
+
+Cyberspace is dynamic and continuously evolving as new technologies and systems emerge.

@@ -1,0 +1,54 @@
+Overview of Computer and Web Technology
+
+Computer and web technology are essential parts of modern society and influence communication, work, education, and entertainment.
+
+Computer Technology
+
+Hardware:
+Computers consist of physical components such as CPU, RAM, storage devices (HDD/SSD), input/output devices like keyboard, mouse, and monitor. These components work together to process and store data.
+
+Software:
+Software includes operating systems like Windows, macOS, and Linux, along with applications such as Microsoft Office, web browsers, and games. Operating systems manage hardware and provide a user interface.
+
+Networking:
+Computers connect through wired networks like Ethernet or wireless networks like Wi-Fi. Networking enables data sharing and remote access.
+
+Security:
+Computer security protects systems from threats like malware, viruses, and hackers using antivirus software, firewalls, and encryption.
+
+Processing Power:
+Moore’s Law states that computer processing power doubles approximately every two years, leading to advancements in fields such as artificial intelligence and data analysis.
+
+Web Technology
+
+World Wide Web (WWW):
+The web is a global system of interconnected documents linked through hyperlinks and accessed through web browsers.
+
+Web Browsers:
+Applications such as Google Chrome, Mozilla Firefox, and Microsoft Edge allow users to access web content.
+
+Web Development:
+Web development involves creating and maintaining websites and web applications.
+
+Web Servers:
+Web servers store website data and deliver it to users’ browsers when requested.
+
+Web Security:
+Security measures like SSL/TLS encryption and authentication protect user data.
+
+Web Standards:
+Organizations like the World Wide Web Consortium (W3C) define standards to ensure compatibility across devices and browsers.
+
+Communication and Web Technology
+
+The Internet forms the foundation of communication and web technology.
+
+Web Browsers allow users to interact with websites and applications.
+
+Websites are collections of web pages created using HTML, CSS, and JavaScript.
+
+Web development includes designing and maintaining these websites.
+
+Web standards and protocols such as HTTP/HTTPS and HTML ensure proper communication between systems.
+
+Mobile web technology optimizes websites for smartphones and tablets.

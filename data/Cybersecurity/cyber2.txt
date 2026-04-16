@@ -1,0 +1,70 @@
+Internet
+
+The word Internet comes from the term internetwork, which means connecting two or more computer networks.
+
+The Internet began in the 1960s as a system used by government researchers to share information.
+
+Early computers were large and immobile, and information sharing required physical transfer of magnetic tapes.
+
+January 1, 1983 is considered the official birthday of the Internet when TCP/IP became the standard communication protocol.
+
+TCP/IP allows computers on different networks to communicate with each other.
+
+TCP establishes connections and ensures data packets are delivered in the correct sequence.
+
+IP provides addressing and handles packet delivery.
+
+World Wide Web (WWW)
+
+The World Wide Web was invented by Tim Berners-Lee in 1989.
+
+The web is a collection of websites stored on web servers and accessed through the Internet.
+
+Websites contain text, images, audio, and video content accessible worldwide.
+
+Web pages are created using HTML and connected through hyperlinks accessed via HTTP.
+
+Advent of the Internet
+
+The development of the Internet started with research on packet switching in the 1960s.
+
+ARPANET was the first interconnected computer network and was initially used by the military.
+
+Later it was expanded to educational institutions.
+
+Internet service providers emerged in the late 1980s and the Internet became commercialized in 1995.
+
+The development of the Internet occurred in three phases:
+
+Innovation Phase (1961–1974):
+Development of packet switching, TCP/IP protocols, and client-server computing.
+
+Institutionalization Phase (1975–1995):
+Large institutions such as the U.S. Department of Defense and National Science Foundation funded Internet expansion.
+
+Commercialization Phase (1995–Present):
+Private companies expanded Internet services globally.
+
+Internet Infrastructure for Data Transfer and Governance
+
+Network Infrastructure includes backbone networks, data centers, and last-mile connectivity.
+
+Protocols and standards such as IP, TLS, HTTP, and DNSSEC ensure secure communication.
+
+Cloud services like AWS, Microsoft Azure, and Google Cloud provide computing and storage resources.
+
+Data governance includes data privacy regulations, access control, and encryption.
+
+Content Delivery Networks (CDNs) optimize data delivery globally.
+
+International collaboration helps regulate cross-border data transfer.
+
+Internet Society (ISOC)
+
+ISOC promotes Internet development and coordinates groups such as:
+
+Internet Engineering Task Force (IETF)
+Internet Architecture Board (IAB)
+Internet Engineering Steering Group (IESG)
+
+These organizations develop and review Internet standards.
